@@ -1,4 +1,4 @@
 My first git file
 this is my second commit
 This change is made using vs code buttons
-fixed note after previous commit
+line 4 has been edited
